@@ -39,7 +39,7 @@ tend=1000*T; % end time
 
 % Solving equation
 yy0=[x0,y0,z0,vx0,vy0,vz0];
-options = odeset('RelTol',1e-4); % 17-04-07 13:38
+options = odeset('RelTol',1e-4); 
 [t,y]=ode45('SolveNewtonLorenz',[0:dt:tend],yy0,options);
 
 % Plotting
