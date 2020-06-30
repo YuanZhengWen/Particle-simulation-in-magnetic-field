@@ -1,2 +1,2 @@
 # Particle-Simulation
-particle simulation in earth magnetic filed
+Charged particles motion simulation in earth magnetic field
