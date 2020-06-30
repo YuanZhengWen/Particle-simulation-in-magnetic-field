@@ -1,5 +1,5 @@
 % ParticleSimulation.m by Yuanzheng Wen,wenyuanzheng@stu.cdut.edu.cn
-% Simulation of charged particles motion in magnetic field
+% Simulation of charged particles motion in Earth magnetic field
 % This is a matlab file
 % but you can also change it into a function file
 
